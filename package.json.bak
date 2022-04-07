@@ -1,0 +1,11 @@
+{
+  "name": "gvbvdxx-chat",
+  "version": "1.0.0",
+  "description": "Chat with pepole!]",
+  "main": "main.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "electron": "^18.0.1"
+  }
+}

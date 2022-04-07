@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>REALLY BIG OH NO!</title>
+	</head>
+	<body>
+		<div style="position:fixed;top:50%;left:50%;width:800px;height:400px;z-index:100;margin-left:-400px;margin-top:-200px;font-family:arial;">
+			<center>
+				<img style="image-rendering:pixelated;" src="aiboandst.gif">
+				<h1>We are sorry, Scratch team is behind us!!1111!</h1>
+				<p>you have been tooken here because an server error accoured and<br>
+				we know longer have are server running correctly, so we are very sorry.<br>
+				<a href="why.html">why this?</a>
+				</p>
+			</center>
+		</div>
+	</body>
+</html>
